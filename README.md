@@ -13,7 +13,7 @@
 ## 安装
 
 ```shell
-$ composer require zhengbingdong/ip-addr
+$ composer require zhengbingdong/ip-addrs
 ```
 
 ## 用法
