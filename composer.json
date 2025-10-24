@@ -1,5 +1,5 @@
 {
-    "name": "zhengbingdong/ip-addr",
+    "name": "zhengbingdong/ip-addrs",
     "description": "无需注册, 完全免费IP归属地查询API,快速查询IP地址的地理位置、运营商等信息,不限量，随便用",
     "type": "library",
     "license": "MIT",
