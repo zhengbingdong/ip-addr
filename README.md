@@ -7,7 +7,7 @@
 ## 官网
 <a href="https://ip.zhengbingdong.com" target="_blank">免费IP解析</a>
 ```shell
-官网 https://ip.zhengbingdong.com
+https://ip.zhengbingdong.com
 ```
 
 
