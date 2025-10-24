@@ -6,6 +6,10 @@
 
 ## 官网
 <a href="https://ip.zhengbingdong.com" target="_blank">免费IP解析</a>
+```shell
+https://ip.zhengbingdong.com
+```
+
 
 ## 更多分享信息内容请关注我的公众号：程序猿的栖息地
 ![程序猿的栖息地](https://pic.zhengbingdong.com/topic/20231102/09ca8dff1123c9e96badb5500604b86c.jpg)
